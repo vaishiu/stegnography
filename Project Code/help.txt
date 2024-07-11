@@ -1,0 +1,51 @@
+------------------------------------------------------------
+Implementation of Steganography using Video 
+============================================================
+Devloped By,
+Ms. Vaishnavi Salunke
+Ms. Sanika Suryawanshi
+Ms. Madhuri Pawar
+Ms. Vaishnavi Pawar
+
+	
+Guided By: 
+Mr. Nilesh Patil
+GP, Ahmednagar
+
+Default USERNAME=gpnagar PASSWORD=computer for access to this application.
+This software lets you embedd important or private messages.
+
+Help topics:
+----------------------------------------------------------------
+1. Encoading a message in an uncompressed Video file:
+----------------------------------------------------------------
+		A. Key in the Input file name in Input File text box .
+		B. Key in the Output file name in Output File text box .
+		C. Key in the message in the Message text field.
+		
+
+
+----------------------------------------------------------------
+2. Retrieving message from the Video:
+----------------------------------------------------------------
+
+		A. Key in the Input file name in Input File text box.
+		B. Click on Cancle button.
+
+
+
+----------------------------------------------------------------
+3. Obtaining help:
+----------------------------------------------------------------
+		A. Click on About button.
+		B. Click on Help button in the next window.
+
+
+==============================================================
+
+
+
+
+
+-------------------------------------------------------------------------------------------------
+				***********************************
